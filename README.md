@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manasgitrep&label=Profile%20views&color=0e75b6&style=flat" alt="manasgitrep" /> </p>
 
-- 🔭 I’m currently working on **MERN**
+- 🔭 I’m currently working on **WEB-DEV**
 
-- 🌱 I’m currently learning **MERN LLM Python React.js GSAP**
+- 🌱 I’m currently learning **MERN JAVA LLM Python React.js GSAP**
 
 - 📫 How to reach me **mannchoudhary3431@gmai.com**
 
