@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **WEB-DEV**
 
-- 🌱 I’m currently learning **MERN JAVA LLM Python React.js GSAP**
+- 🌱 I’m currently learning **MERN JAVA LLM Python React.js Flutter**
 
 - 📫 How to reach me **mannchoudhary3431@gmai.com**
 
